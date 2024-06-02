@@ -1,0 +1,9 @@
+/*************Code source **********************************/
+https://github.com/thameurAissaoui/GTI745-01-Labo02-Equipe-16
+
+/**************** Enregistrement demo 1 *************************/
+https://github.com/thameurAissaoui/GTI745-01-Labo02-Equipe-16/blob/main/GTI745-01-Labo02-Equipe-16_Video1.mov
+
+
+/**************** Enregistrement demo 2 avec Xrecorder *************************/
+https://github.com/thameurAissaoui/GTI745-01-Labo02-Equipe-16/blob/main/GTI745-01-Labo02-Equipe-16_Video2.mov
